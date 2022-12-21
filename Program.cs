@@ -1,44 +1,42 @@
 ﻿using System;
-namespace hello
+using System.Collections.Generic;
+using System.Linq;
+using System.Text;
+using System.Threading.Tasks;
+
+namespace ConsoleApp6
 {
-    class prime
+    internal class Class1
     {
-        static void Main(String[] args)
+        static void Main(string[] args)
         {
+
             Console.WriteLine("enter num1");
-            double num1 = double.Parse(Console.ReadLine());
+            int num1 = int.Parse(Console.ReadLine());
 
 
             Console.WriteLine("enter num2");
-            double num2 = double.Parse(Console.ReadLine());
-           
-            Console.WriteLine("the perfect numbers :");
-            for (double i = num1; i < num2; i++)
-            {
+            int num2 = int.Parse(Console.ReadLine());
 
-              
-                double result = 0;
-                for (int j = 1; j < i ; j++)
+            Console.WriteLine("the prime numbers :");
+            for (int i = num1; i < num2; i++)
+            {
+                int k = 0;
+                for (int j = 2; j < i; j++)
                 {
-             
 
                     if (i % j == 0)
                     {
-
-                        result += j;
+                        k++;
+                        break;
 
                     }
 
                 }
-                if ( result== i)
+                if (k == 0 && i != 1)
 
                     Console.WriteLine(i);
             }
-
         }
-
-
     }
-
-
 }

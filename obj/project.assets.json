@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\MoGa\\source\\repos\\perfect numbers\\perfect numbers\\perfect numbers.csproj",
-      "projectName": "perfect numbers",
-      "projectPath": "C:\\Users\\MoGa\\source\\repos\\perfect numbers\\perfect numbers\\perfect numbers.csproj",
+      "projectUniqueName": "C:\\Users\\MoGa\\source\\repos\\prime numbers\\prime numbers\\prime numbers.csproj",
+      "projectName": "prime numbers",
+      "projectPath": "C:\\Users\\MoGa\\source\\repos\\prime numbers\\prime numbers\\prime numbers.csproj",
       "packagesPath": "C:\\Users\\MoGa\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\MoGa\\source\\repos\\perfect numbers\\perfect numbers\\obj\\",
+      "outputPath": "C:\\Users\\MoGa\\source\\repos\\prime numbers\\prime numbers\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\MoGa\\AppData\\Roaming\\NuGet\\NuGet.Config",

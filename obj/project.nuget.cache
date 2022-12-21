@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "F9epwe9YG4nYFuLj+BHYKF5HVj36qf5GxV4QFyzu9dqmCsDlMa5Uwa4JdZ7yCP3kWv4ywhslXcK3WQKWmGieAQ==",
+  "dgSpecHash": "QXuVsTUuJRgSeIJ6oD2v4I9Tipv8ld3YDJTteZUdU67bVR6pcS8I2O8+KrdKSBvZSUXVyH6X1Gk5ux/3U0k2xg==",
   "success": true,
-  "projectFilePath": "C:\\Users\\MoGa\\source\\repos\\perfect numbers\\perfect numbers\\perfect numbers.csproj",
+  "projectFilePath": "C:\\Users\\MoGa\\source\\repos\\prime numbers\\prime numbers\\prime numbers.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }
